@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Blockchain (Solidity and Rust) and Backend (Php and Python).<br>💬 Ask me about blockchain.<br>
+🌱 I’m currently learning about Blockchain and Backend .<br>💬 Ask me about blockchain.<br>
 
 
 ## 🌐 Socials:
