@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about web3.<br>
+🌱 I’m currently learning about web3 development.<br>
 🧑‍💻 Check out my [Dorahack](https://dorahacks.io/hacker/wanaqil) ,[Devpost](https://devpost.com/wanaqilre?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and [Devfolio](https://devfolio.co/@wanaqil)
 
 ## 🌐 Socials:
