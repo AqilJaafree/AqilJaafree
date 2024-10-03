@@ -13,6 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AqilJaafree&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqilJaafree&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![An image of @aqiljaafree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aqiljaafree)](https://holopin.io/@aqiljaafree)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AqilJaafree&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
