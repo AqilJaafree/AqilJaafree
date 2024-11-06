@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning about web3 development.<br>
-🧑‍💻 Check out my [Dorahack](https://dorahacks.io/hacker/wanaqil) ,[Devpost](https://devpost.com/wanaqilre?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and [Devfolio](https://devfolio.co/@wanaqil)
+🧑‍💻 Check out my [Dorahack](https://dorahacks.io/hacker/wanaqil) ,
+[Devpost](https://devpost.com/wanaqilre?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and 
+[Devfolio](https://devfolio.co/@wanaqil)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wan-aqil/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/wanaokii) 
