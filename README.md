@@ -17,10 +17,5 @@
 
 [![An image of @aqiljaafree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aqiljaafree)](https://holopin.io/@aqiljaafree)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AqilJaafree&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=AqilJaafree&icon=6&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
