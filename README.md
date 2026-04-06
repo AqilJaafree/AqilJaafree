@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about web3 and AI.<br>
+🌱 I’m currently learning about Web3, AI and Quant.<br>
 🧑‍💻 Check out my portfolio in [Portfolio](https://savory-nation-040.notion.site/Wan-Muhammad-Aqil-Portfolio-199e680a6bfc8004b353c9973afd667b) , [Dorahack](https://dorahacks.io/hacker/wanaqil) ,
 [Devpost](https://devpost.com/wanaqilre?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and 
 [Devfolio](https://devfolio.co/@wanaqil)
